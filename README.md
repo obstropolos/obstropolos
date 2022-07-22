@@ -13,7 +13,6 @@
 
 [linkedin]: https://www.linkedin.com/in/gregoryvrocco "LinkedIn"
 [twitter]: https://twitter.com/obstropolos "Twitter"
-[blog]: https://rocco.network/blog-posts/
 [spruce]: https://spruceid.com/
 
 
