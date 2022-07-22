@@ -7,7 +7,6 @@
 </a>
 
 - 🌲 &nbsp;I'm a co-founder at **[Spruce]**
-- :writing_hand: &nbsp;I write things here and there on my **[blog]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Follow me on **[Twitter]**
 
