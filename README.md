@@ -1,11 +1,6 @@
 
 <h1 align="left" id="suhailkakar-title">Hey I'm Rocco</h1>
 
-
-<a href="#Rocco-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=obstropolos&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rocco" align="right" />
-</a>
-
 - 🌲 &nbsp;I'm a co-founder at **[Spruce]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Follow me on **[Twitter]**
